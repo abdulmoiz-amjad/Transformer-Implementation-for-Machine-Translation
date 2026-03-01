@@ -2,7 +2,7 @@
 
 ### Urdu Machine Translation & CIFAR-10 Classification
 
-**Author:** Wasif Mehboob
+**Author:** Abdul Moiz
 
 ---
 
